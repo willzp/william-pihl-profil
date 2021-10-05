@@ -1,0 +1,100 @@
+h1{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px black;
+    font-size:60px;
+}
+img{
+    border-radius: 100%;
+    width: 230px;
+
+    position: absolute;
+    top: 400px;
+    right: 620px;
+}
+nav{
+    font-size: 0;
+}
+a{  
+    color:blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    
+   
+    border-style:solid;
+    margin: 2px;
+       
+}
+a:hover{
+    background-color:rgb(0, 255, 0);
+    color: black; 
+}
+p{
+    font-size: 20px;
+}
+
+h1{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px black;
+
+} 
+
+nav{
+    font-size: 0;
+}
+a{  
+    color:blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    
+   
+    border-style:solid;
+    margin: 2px;
+   
+}
+a:hover{
+    background-color:rgb(0, 255, 0);
+    color: black; 
+}
+
+label{
+    color:royalblue;
+    font-family:cursive;
+    font-size:23px;
+}
+
+input{
+     margin: 5px;   
+}
+
+#box{
+
+    position: relative;
+    top:  -20px;
+    left: 15px;
+
+}
+#insp{
+
+    color:red;
+    font-family: serif;
+    border-style:dotted;
+    padding:15px;
+    position: relative;
+    top:35px;
+    border-radius: 100%;
+}
+#insp:hover{
+
+background-color:rgb(255, 0, 0);
+    color: black; 
+}
+
+
+
+
+
+
+
+
